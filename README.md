@@ -1,7 +1,14 @@
 ﻿# Memories
-'$ cd api'
-nodemon index.js **/
+ ```
+cd api
+```
+```
+nodemon index.js
+```
 
-/**
+```
 cd client
-yarn dev **/
+```
+```
+yarn dev
+```
