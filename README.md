@@ -1,6 +1,5 @@
 ﻿# Memories
-/** 
-cd api
+'$ cd api'
 nodemon index.js **/
 
 /**
